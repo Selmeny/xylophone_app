@@ -10,6 +10,8 @@ Here are the main things that i learned to use in this project:
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
 
+Pictures:
+
 <img src="https://github.com/Selmeny/xylophone_app/blob/master/images/xylophone.png">
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
